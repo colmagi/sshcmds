@@ -1,0 +1,9 @@
+{
+    "name": "sshcmds",
+    "version": "0.1.0",
+    "author": "James You",
+    "author_email": "jamesyou314@gmail.com",
+    "description": "A package to run ssh commands",
+    "url": "https://github.com/colmagi",
+    "python_version": ">=3.9.1"
+}

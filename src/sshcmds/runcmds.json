@@ -1,0 +1,7 @@
+{
+    "host": "192.168.99.101",
+    "user": "root",
+    "vaultURL": "http://127.0.0.1:8200",
+    "token": "s.vIUwXR3vuKJs1zWKK5S7Qwzo",
+    "keypath": "kv-v1/ssh"
+}
